@@ -13,7 +13,7 @@
 
 ### 🔗 Ссылки для скачивания:
 
-- **📁 Все файлы**: [Скачать все файлы]([https://drive.google.com/drive/folders/ВАШ_ID_ОСНОВНОЙ_ПАПКИ?usp=sharing](https://drive.google.com/drive/folders/1ppJsj0MpydkAUACrllWQ6-evBB13uOtS?usp=drive_link))
+- **📁 Все файлы**: [Скачать все файлы](https://drive.google.com/drive/folders/1ppJsj0MpydkAUACrllWQ6-evBB13uOtS?usp=drive_link)
 
 ## 📊 О проекте
 
